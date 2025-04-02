@@ -23,6 +23,18 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## 간소화된 버전
+
+코드가 너무 길어서 실행하기 어렵다면, 간소화된 버전을 사용할 수 있습니다:
+
+```bash
+# 간소화된 버전 설치
+pip install -r requirements_simplified.txt
+
+# 간소화된 앱 실행
+streamlit run app_simplified.py
+```
+
 ## 데이터 출처
 
 - 인천국제공항공사 공공데이터 API (공공데이터포털)
